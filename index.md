@@ -27,4 +27,4 @@ Zhendong Ang, Umang Mathur
 
 ### About My Name
 
-* My family name is 昂 in Chinese, which is pronounced as [ŋã] in [Xuanzhou Wu](https://en.wikipedia.org/wiki/Xuanzhou_Wu_Chinese). Do not confuse it with [other common surnames](https://en.wikipedia.org/wiki/Ang_(surname)).
+* My family name is 昂 in Chinese, which is pronounced as [ŋã] in [Xuanzhou Wu](https://en.wikipedia.org/wiki/Xuanzhou_Wu_Chinese). Do not confuse it with [another common surname](https://en.wikipedia.org/wiki/Ang_(surname)) 洪 among Chinese Singaporean.
