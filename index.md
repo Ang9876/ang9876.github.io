@@ -1,6 +1,6 @@
 ## About Me
 
-I am a PhD student in [the School of Computing](https://www.comp.nus.edu.sg) at [the National University of Singapore](https://www.nus.edu.sg),
+My name is Zhendong Ang. I am a PhD student in [the School of Computing](https://www.comp.nus.edu.sg) at [the National University of Singapore](https://www.nus.edu.sg),
 where I am fortunate to be advised by Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
 My research interests include formal methods, dynamic analysis, and automata theory.
 
@@ -14,7 +14,7 @@ POPL'24
 <td>
 Predictive Monitoring against Pattern Regular Languages
 
-**Zhendong Ang**, Umang Mathur
+Zhendong Ang, Umang Mathur
 </td>
 </tr>
 </table>
@@ -22,4 +22,9 @@ Predictive Monitoring against Pattern Regular Languages
 
 ## Teaching
 
-[CS1010](https://nus-cs1010.github.io/2324-s1/index.html) Programming Methodology, Semester I, 2023-2024
+* [CS1010](https://nus-cs1010.github.io/2324-s1/index.html) Programming Methodology, Semester I, 2023-2024, Tutorial Instructor
+
+
+## Important Fact
+
+* My family name is 昂 in Chinese, which is pronounced as [ŋã] in [Xuanzhou Wu](https://en.wikipedia.org/wiki/Xuanzhou_Wu_Chinese). Do not confuse it with [other common surnames](https://en.wikipedia.org/wiki/Ang_(surname)).
