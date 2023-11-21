@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/Ang9876/ang9876.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD student in [the School of Computing](https://www.comp.nus.edu.sg) at [the National University of Singapore](https://www.nus.edu.sg),
+where I am fortunate to be advised by Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
+My research interests include formal methods, dynamic analysis, and automata theory.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publication
 
-### Markdown
+<table>
+<tr>
+<td>
+POPL'24
+</td>
+<td>
+Predictive Monitoring against Pattern Regular Languages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Zhendong Ang**, Umang Mathur
+</td>
+</tr>
+</table>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Teaching
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ang9876/ang9876.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[CS1010](https://nus-cs1010.github.io/2324-s1/index.html) Programming Methodology, Semester I, 2023-2024
