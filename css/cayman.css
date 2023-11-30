@@ -199,7 +199,7 @@ a:hover { text-decoration: underline; }
 }
 
 .photo {
-  width: 150px; /* Adjust as needed */
+  width: 120px; /* Adjust as needed */
   height: 150px; /* Adjust as needed */
   margin-right: 20px; /* Spacing between photo and text */
 }
