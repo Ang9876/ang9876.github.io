@@ -1,5 +1,17 @@
-theme: jekyll-theme-minimal
-title: Zhendong Ang
-description: zhendong.ang@u.nus.edu
+# Setup
+title:        Zhendong Ang
+baseurl:      ""
+paginate:     1
+locale:       "en"
 
-github.private: true
+# About/contact
+author:
+  name:       Zhendong Ang
+  url:        http://ang9876.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
