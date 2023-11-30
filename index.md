@@ -6,15 +6,14 @@ My research interests include formal methods, dynamic analysis, and automata the
 
 ## Publication
 
-<table>
+<table frame=void>
 <tr>
 <td>
 POPL'24
 </td>
 <td>
-Predictive Monitoring against Pattern Regular Languages
-
-Zhendong Ang, Umang Mathur
+<p><a href="https://arxiv.org/pdf/2310.14611.pdf">Predictive Monitoring against Pattern Regular Languages</a></p>
+<p>Zhendong Ang, Umang Mathur</p>
 </td>
 </tr>
 </table>
