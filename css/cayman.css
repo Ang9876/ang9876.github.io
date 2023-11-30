@@ -190,3 +190,14 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.photo {
+  width: 150px; /* Adjust as needed */
+  height: 150px; /* Adjust as needed */
+  margin-right: 20px; /* Spacing between photo and text */
+}
