@@ -5,13 +5,12 @@ where I am fortunate to be advised by Prof. [Umang Mathur](https://www.comp.nus.
 My research interests include formal methods, dynamic analysis, and automata theory.
 
 ## Publication
-
-<table frame=void>
+<table>
 <tr>
 <td>
 POPL'24
 </td>
-<td>
+<td >
 <p><a href="https://arxiv.org/pdf/2310.14611.pdf">Predictive Monitoring against Pattern Regular Languages</a></p>
 <p>Zhendong Ang, Umang Mathur</p>
 </td>
