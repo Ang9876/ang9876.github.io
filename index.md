@@ -8,7 +8,7 @@ My research interests include formal methods, dynamic analysis, and automata the
 <p><b>[POPL'24] </b><a href="https://arxiv.org/pdf/2310.14611.pdf">Predictive Monitoring against Pattern Regular Languages</a></p>
 <p>Zhendong Ang, Umang Mathur</p>
 <p><b>[CPP'24] </b>Rooting for Efficiency: Mechanised Reasoning about Array-Based Trees in Separation Logic</p>
-<p>Zhendong Ang, Umang Mathur</p>
+<p>Qiyuan Zhao, George Pîrlea, Zhendong Ang, Umang Mathur, Ilya Sergey</p>
 <p><b>[CAV'24] </b>Predictive Monitoring with Strong Trace Prefixes</p>
 <p>Zhendong Ang, Umang Mathur</p>
 <p><b>[LMPL'25] </b>Ranking Formal Specifications using LLM</p>
